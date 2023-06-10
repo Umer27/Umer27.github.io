@@ -64,7 +64,7 @@ params:
     favicon: /images/site/favicon.png
 
   # GitHub repo of your site
-  gitRepo: https://github.com/umer27/umer27.github.io
+  gitRepo: https://github.com/Umer27/Umer27.github.io
 
   # Default branch of your Git repo
   gitBranch: main
