@@ -1,0 +1,19 @@
+# some information about you
+name: "Muhammad Umer Shaukat"
+nickname: "Umer"
+# greeting message before your name. it will default to "Hi! I am" if not provided
+greeting: "Hi, I am"
+image: "images/author/john.png"
+# give your some contact information. they will be used in the footer
+contactInfo:
+  email: "umershaukat27@gmail.com"
+  phone: "+923319779599"
+  github: Umer27
+  linkedin: umer-shaukat
+
+# some summary about what you do
+summary:
+  - I am a Fullstack developer
+  - I am a Backend Expert
+  - I love problem solving
+  - I love to work with some fun projects

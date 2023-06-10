@@ -1,0 +1,91 @@
+# section information
+section:
+  name: About
+  id: about
+  enable: true
+  weight: 1
+  showOnNavbar: true
+  template: sections/about.html
+
+# your designation
+designation: Software Engineer
+# your company information
+company:
+  name: Intellia
+  url: "https://www.intellia.io/"
+
+# your resume. this file path should be relative to you "static" directory
+# Dreprecated. Use resourceLinks instead.
+# resume: "files/resume.pdf"
+
+# a summary about you
+summary: "I am a highly motivated and passionate Software Engineer with a strong track record of designing and developing innovative applications. With experience both as an individual contributor and a collaborative team member, I have a diverse skill set encompassing various technologies and tools.
+
+My expertise lies in backend development, where I have gained proficiency in NestJS, MongoDB, Redis, Docker, Kubernetes (K8s), and AWS. Additionally, I have extensive experience with databases such as PostgreSQL and cloud services like Google Firebase. I have also integrated various APIs and leveraged third-party libraries for both backend and frontend tasks, ensuring efficient and scalable solutions.
+
+Let's connect and explore how we can create something exceptional together!"
+
+# your social links
+# give as many as you want. use font-awesome for the icons.
+socialLinks:
+- name: Email
+  icon: "fas fa-envelope"
+  url: "umershaukat27@gmail.com"
+
+- name: Github
+  icon: "fab fa-github"
+  url: "https://www.github.com/Umer27"
+
+- name: Stackoverflow
+  icon: "fab fa-stack-overflow"
+  url: "#"
+
+- name: LinkedIn
+  icon: "fab fa-linkedin"
+  url: "https://www.linkedin.com/in/umer-shaukat"
+
+# You can put custom buttons to link your relevant resources.
+# For example, you can put link for your resume.
+resourceLinks:
+- title: "My Resume"
+  url: "files/resume.pdf"
+
+# Show your badges
+# You can show your verifiable certificates from https://www.credly.com.
+# You can also show a circular bar indicating the level of expertise on a certain skill
+badges:
+- type: certification
+  name: Certified Kubernetes Security Specialist
+  url: "https://www.credly.com/org/the-linux-foundation/badge/exam-developer-certified-kubernetes-security-specialist"
+  badge: "https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg"
+
+- type: certification
+  name: Istio and IBM Cloud Kubernetes Service
+  url: "https://www.credly.com/org/the-linux-foundation/badge/exam-developer-certified-kubernetes-security-specialist"
+  badge: "https://images.credly.com/size/680x680/images/8d34d489-84bf-4861-a4a0-9e9d68318c5c/Beyond_basics_of_Istio_on_Cloud_v2.png"
+
+- type: certification
+  name: Artificial Intelligence and Machine Learning
+  url: "https://www.credly.com/org/grupo-bancolombia/badge/artificial-intelligence-and-machine-learning"
+  badge: "https://images.credly.com/size/680x680/images/e027514f-9d07-4b29-862f-fe21a8aaebf1/ae.png"
+
+- type: soft-skill-indicator
+  name: Leadership
+  percentage: 90
+  color: orange
+
+- type: soft-skill-indicator
+  name: Team Work
+  percentage: 90
+  color: orange
+
+- type: soft-skill-indicator
+  name: Hard Working
+  percentage: 90
+  color: orange
+
+# you can also provide color code instead of the color name
+# - type: soft-skill-indicator
+#   name: Example 1
+#   percentage: 75
+#   color: "#00adb5"

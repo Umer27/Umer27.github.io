@@ -1,0 +1,10 @@
+{
+ "compilerOptions": {
+  "baseUrl": ".",
+  "paths": {
+   "*": [
+    "../../../../../../var/folders/3z/tqcp5gps0g722k176sx4vftc0000gn/T/hugo_cache/modules/filecache/modules/pkg/mod/github.com/hugo-toha/toha/v4@v4.0.0-20230127171959-e5fcc95e8b8d/assets/*"
+   ]
+  }
+ }
+}
