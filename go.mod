@@ -1,4 +1,4 @@
-module github.com/umer27/umershaukat.github.io
+module github.com/umer27/umer27.github.io
 
 go 1.19
 
