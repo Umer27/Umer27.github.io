@@ -69,7 +69,7 @@ params:
   # Default branch of your Git repo
   gitBranch: main
 
-  # Configure the number of section title visible in the top navbar
+  # Configure the number of section title visible in the top navbarff
   topNavbar:
     maxVisibleSections: 5
 
