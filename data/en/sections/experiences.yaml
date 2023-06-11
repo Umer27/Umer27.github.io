@@ -11,54 +11,114 @@ section:
 # Your experiences
 experiences:
 - company:
-    name: Example Co.
-    url: "https://www.example.com"
-    location: Dhaka Branch
+    name: Intellia Co.
+    url: "https://www.intellia.io/"
+    location: Lahore (Pakistan)
     # company overview
-    overview: Example Co. is a widely recognized company for cloud-native development. It builds tools for Kubernetes.
+    overview: Intellia Co. is a leading company offering Strategy & Financial Consulting on the Cloud and providing clients with a trusted team of vetted analysts.
   positions:
-  - designation: Senior Software Engineer
-    start: Nov 2019
+  - designation: System Design Engineer
+    start: March 2023
     # don't provide end date if you are currently working there. It will be replaced by "Present"
     # end: Dec 2020
     # give some points about what was your responsibilities at the company.
     responsibilities:
-    - Design and develop XYZ tool for ABC task
-    - Design, develop and manage disaster recovery tool [Xtool](https://www.example.com) that backup Kubernetes volumes, databases, and cluster's resource definition.
+    - Implement Event-Driven Architecture (EDA) to enhance application scalability and responsiveness.
+    - Incorporate ELK (Elasticsearch, Logstash, Kibana) stack to improve monitoring and logging capabilities.
     - Lead backend team.
 
-  - designation: Junior Software Engineer
-    start: Nov 2017
-    end: Oct 2019
+  - designation: Senior Software Engineer
+    start: Feb 2023
+    end: Oct 2022
     responsibilities:
-    - Implement and test xyz feature for abc tool.
-    - Support client for abc tool.
-    - Learn k,d,w technology for xyz.
+      - Lead backend development to enhance code quality, improve architecture, and ensure scalability.
+      - Enhance the Rule Engine to recommend analysts who are the best fit for specific roles.
+      - Implement Role-Based Access Control (RBAC) to enhance system security and prevent unauthorized access.
+      - Develop a robust notification system to handle all system-related notifications for end customers.
 
 - company:
-    name: PreExample Co.
-    url: "https://www.example.com"
-    location: Nowhere
+    name: Technowis Co.
+    url: "https://technowis.co/"
+    location: Lahore (Pakistan)
     overview: PreExample Co. is a gateway company to enter into Example co. So, nothing special here.
   positions:
-  - designation: Software Engineer
-    start: March 2016
-    end: May 2017
+  - designation: Blockchain Engineer
+    start: March 2022
+    end: Sep 2022
     responsibilities:
-    - Write lots of example codes.
-    - Read lots of examples.
-    - See lots of example videos.
+    - Led a team of 5 engineers to develop the backend infrastructure for a crypto exchange, ensuring smooth and secure trading experiences for users.
+    - Assisted in onboarding and mentoring additional developers to ensure a cohesive understanding of blockchain concepts and efficient collaboration within the team.
+    - Collaborated with devsecops as an edge engineer to ensure the seamless delivery of application releases, enhancing reliability and minimizing down.
+
+  - designation: Senior Software Engineer
+    start: Sep 2021
+    end: March 2022
+    responsibilities:
+      - Directed a team of 4 engineers in the development of a rider-sharing mobile application, delivering a real-time and cost-efficient solution with scalable architecture.
+      - Architected the application to optimize cost and accuracy of estimations, leveraging Google Maps API and implementing smart algorithms.
+      - Implemented cloud infrastructure for the application, enabling seamless scalability and high availability.
+      - Collaborated with the team to integrate the Stripe payment system, ensuring secure and convenient transactions for users.
+      - Optimized the server to handle increased request throughput, enhancing the application's capacity to handle a higher number of requests per second.
 
 - company:
-    name: Intern Counting Company (ICC).
-    url: "https://www.example.com"
-    location: Intern Land
-    overview: Intern counting Company (ICC) is responsible for counting worldwide intern Engineers.
+    name: DeepDive Technologies
+    url: "https://technowis.co/"
+    location: Lahore (Pakistan)
+    overview: Pharmacy application that facilitates order placement and medicine delivery to end customers.
   positions:
-  - designation: Intern
-    start: Jun 2015
-    end: Jan 2016
+  - designation: Software Engineer
+    start: Nov 2020
+    end: Sep 2021
     responsibilities:
-    - Count lost of interns.
-    - Count more interns.
-    - Count me as an intern.
+    - Led the development of the end-to-end backend solution, ensuring a seamless flow from customer prescription submission to medicine delivery at their doorstep.
+    - Implemented a robust system to handle orders that involve multiple pharmacies in case certain medicines are unavailable at a single pharmacy.
+    - Designed and implemented the cloud infrastructure, including CI/CD pipelines and auto-scaling using Elastic Beanstalk, to ensure a reliable and scalable application deployment.
+    - Improved application scalability by adopting a Microservices architecture and successfully implementing it within the pharmacy application.
+    - Integrated an Elasticsearch engine for fuzzy search functionality within the medicine catalog, enhancing the user experience and making it easier for customers to find specific medicines.
+    - Integrated the ELK (Elasticsearch, Logstash, Kibana) stack for comprehensive logging and application insights, enabling efficient monitoring and troubleshooting.
+    - Designed and developed HTTP server as the backbone of the reporting application, facilitating efficient communication.
+    - Implemented robust tracking system for real-time location monitoring of individual riders, optimizing logistics management.
+    - Resolved timezone issues through implementation of a timezone handling mechanism for accurate and consistent data.
+    - Developed comprehensive reporting system generating monthly reports for individuals.
+
+- company:
+    name: Remotebase
+    url: "https://remotebase.com/"
+    location: Lahore (Pakistan)
+    overview: Hire top 1% remote developers within 24 hours. Build a team of pre-vetted, highly skilled software developers tailored to your timezone and work model, saving time and money in the hiring process.
+  positions:
+  - designation: Backend Engineer
+    start: March 2020
+    end: Nov 2020
+    responsibilities:
+      - Worked on the development of the delivery system, ensuring efficient and reliable product delivery.
+      - Integrated a spatial database for geographic calculations, enabling optimized calculations for riders in virtual regions to efficiently handle orders.
+      - Implemented Redis as a queuing server to handle delayed jobs and ensure seamless order processing.
+      - Generated insightful reports from the production database by leveraging custom scripts and data analysis.
+
+  - designation: Android Developer
+    start: July 2019
+    end: March 2020
+    responsibilities:
+      - Led end-to-end development of a robust mobile application, from ideation to successful deployment.
+      - Wrote comprehensive unit tests for all application components, ensuring stability and minimizing bugs.
+      - Implemented two-way data binding, enhancing user experience and simplifying data synchronization with backend systems.
+      - Collaborated closely with internal Intel team, leveraging their feedback to refine the application and create a beta version meeting their requirements.
+      - Independently designed and developed robust APIs using Google Cloud Functions for efficient data exchange and third-party integration.
+      - Constructed reliable and scalable backend system using Node.js and industry best practices for data storage, processing, and retrieval.
+      - Integrated Twilio API for smooth communication and real-time notifications through SMS and messaging.
+      - Integrated easypaisa payment gateway for smooth funds delivery among the parties.
+
+- company:
+    name: Stuport.
+    url: "https://techone.nust.edu.pk/stuport/"
+    location: Islamabad (Pakistan)
+    overview: Stuport is a platform which aims to make the daily commute of students (initially) super cheap and easy by connecting students commuting via vans, public transport, ride hailing apps, etc with students commuting via personal conveyance.
+  positions:
+  - designation: Backend Engineer
+    start: Jun 2018
+    end: July 2019
+    responsibilities:
+      - Constructed reliable and scalable backend system using Node.js and industry best practices for data storage, processing, and retrieval.
+      - Integrated Twilio API for smooth communication and real-time notifications through SMS and messaging.
+      - Integrated easypaisa payment gateway for smooth funds delivery among the parties.
